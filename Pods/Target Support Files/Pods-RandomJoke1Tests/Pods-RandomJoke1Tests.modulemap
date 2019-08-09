@@ -1,0 +1,6 @@
+framework module Pods_RandomJoke1Tests {
+  umbrella header "Pods-RandomJoke1Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
